@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/connect-4-client/static/css/main.958d4bcb.css",
+    "main.js": "/connect-4-client/static/js/main.cce7722f.js",
+    "index.html": "/connect-4-client/index.html",
+    "main.958d4bcb.css.map": "/connect-4-client/static/css/main.958d4bcb.css.map",
+    "main.cce7722f.js.map": "/connect-4-client/static/js/main.cce7722f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.958d4bcb.css",
+    "static/js/main.cce7722f.js"
+  ]
+}
